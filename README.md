@@ -2,12 +2,17 @@
 
 Junior Data/IA and DevOps engineer in progress, 42 student focused on Python, automation, containers, CI/CD, Kubernetes and LLM tooling.
 
-[![DevOps Platform API CI](https://github.com/sornin57/devops-platform-api/actions/workflows/ci.yml/badge.svg)](https://github.com/sornin57/devops-platform-api/actions/workflows/ci.yml)
-[![42 Projects CI](https://github.com/sornin57/42-projects/actions/workflows/ci.yml/badge.svg)](https://github.com/sornin57/42-projects/actions/workflows/ci.yml)
+## CI Status
+
+| Project | Status |
+| --- | --- |
+| DevOps Platform API | [![CI](https://github.com/sornin57/devops-platform-api/actions/workflows/ci.yml/badge.svg)](https://github.com/sornin57/devops-platform-api/actions/workflows/ci.yml) |
+| 42 Projects | [![CI](https://github.com/sornin57/42-projects/actions/workflows/ci.yml/badge.svg)](https://github.com/sornin57/42-projects/actions/workflows/ci.yml) |
 
 ## Highlights
 
 - 42 Exam Rank 04 passed.
+- Next goal: 42 Exam Rank 05.
 - Building a DevOps portfolio project with FastAPI, Docker, GitHub Actions, GHCR and Kubernetes.
 - Practicing Python, algorithms, data/AI workflows and LLM function-calling.
 - Based near Paris and open to junior Data/IA and DevOps opportunities.
